@@ -1,1 +1,1 @@
-{"version":3,"sources":["bigChartBox.scss","bigChartBox.css"],"names":[],"mappings":"AAAA;EACI,WAAA;EACA,YAAA;EACA,aAAA;EACA,sBAAA;EACA,8BAAA;ACCJ;ADCI;EACI,WAAA;EACA,aAAA;ACCR","file":"bigChartBox.css"}
+{"version":3,"sources":["bigChartBox.scss","bigChartBox.css","../../styles/responsive.scss"],"names":[],"mappings":"AAEA;EACI,WAAA;EACA,YAAA;EACA,aAAA;EACA,sBAAA;EACA,8BAAA;ACDJ;ACqBI;EFlBA;IAEQ,eAAA;ECDV;AACF;ADII;EACI,WAAA;EACA,aAAA;ACFR","file":"bigChartBox.css"}
