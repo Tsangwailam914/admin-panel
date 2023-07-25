@@ -7,7 +7,7 @@
 .menu .item .title {
   font-size: 12px;
   font-weight: 200;
-  color: #ddd;
+  color: #000000;
   text-transform: uppercase;
 }
 @media screen and (max-width: 1024px) {
@@ -23,7 +23,7 @@
   border-radius: 5px;
 }
 .menu .item .listItem:hover {
-  background-color: #384256;
+  background-color: #F6F4F2;
 }
 @media screen and (max-width: 1024px) {
   .menu .item .listItem .listItemTitle {
